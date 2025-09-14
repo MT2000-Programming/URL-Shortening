@@ -3,7 +3,7 @@ This is my solution for the [Frontend Mentor - Shortly URL shortening API Challe
 The project is a responsive landing page that integrates with the [Clean URI API](https://cleanuri.com/docs) to shorten links and display them dynamically.
 
 ---
-![](./images/Shortly - URL Shortener.html)
+![](https://github.com/MT2000-Programming/URL-Shortening/blob/main/images/URL_Shortener.html)
 ## 🚀 Features
 - ✅ Fully responsive design (mobile-first approach)
 - ✅ Shorten any valid URL using the CleanURI API
